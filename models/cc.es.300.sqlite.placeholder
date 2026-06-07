@@ -1,0 +1,6 @@
+Placeholder for cc.es.300.sqlite.
+
+The production SQLite vector store is larger than 50 MB and is not stored in
+git. Rebuild a compatible local file with:
+
+python analysis/build_vector_store.py --source <fasttext-es.vec.gz> --output models/cc.es.300.sqlite --language es

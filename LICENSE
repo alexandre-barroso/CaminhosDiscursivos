@@ -1,21 +1,24 @@
-MIT License
+Caminhos Discursivos Source-Available Audit License
 
-Copyright (c) 2026 Alexandre Menezes Barroso
+Copyright (c) 2026 Alexandre Menezes Barroso.
+All rights reserved except as expressly stated below.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is granted to read, download, inspect, and cite the source files in
+this repository for academic review, security review, reproducibility review,
+and methodological audit.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Permission is not granted to deploy, host, sell, sublicense, repackage, or
+redistribute a public or private service based on this repository, nor to use
+the repository name, project identity, hosted-web presentation, or omitted
+production assets as part of another hosted service, without prior written
+permission from the copyright holder.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+The repository intentionally contains only an audit-oriented subset of the
+project. Production web assets, deployment wiring, large pretrained vector
+stores, and runtime infrastructure are outside the scope of this source release.
+
+THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR
+A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR AVAILABILITY. THE COPYRIGHT HOLDER
+SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR
+IN CONNECTION WITH THE MATERIAL OR ITS USE.
