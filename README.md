@@ -178,7 +178,8 @@ La carpeta de salida contiene un informe textual localizado, manifiesto JSON, fi
   howpublished = {Programa de computador. Registro n. BR5120260042356},
   note         = {Registrado em 16 jun. 2026. Instituto Nacional da Propriedade Industrial (INPI)}
 }
-
+```
+```bibtex
 @misc{barroso2026discursivepathswebapp,
   author       = {Barroso, A. M.},
   title        = {Discursive Paths WebApp},
@@ -186,7 +187,8 @@ La carpeta de salida contiene un informe textual localizado, manifiesto JSON, fi
   howpublished = {Computer program. Registration no. BR5120260042356},
   note         = {Registered on June 16, 2026. National Institute of Industrial Property (INPI)}
 }
-
+```
+```bibtex
 @misc{barroso2026caminosdiscursivoswebapp,
   author       = {Barroso, A. M.},
   title        = {Caminos Discursivos WebApp},
