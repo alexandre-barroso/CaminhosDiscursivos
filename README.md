@@ -167,3 +167,32 @@ python analysis/caminhos_pipeline.py --manifest manifest.json --output out
 ```
 
 La carpeta de salida contiene un informe textual localizado, manifiesto JSON, figuras vectoriales en PDF y vistas PNG.
+
+### Ref. (EN/PT/ES)
+
+```bibtex
+@misc{barroso2026caminhosdiscursivoswebapp,
+  author       = {Barroso, A. M.},
+  title        = {Caminhos Discursivos WebApp},
+  year         = {2026},
+  howpublished = {Programa de computador. Registro n. BR5120260042356},
+  note         = {Registrado em 16 jun. 2026. Instituto Nacional da Propriedade Industrial (INPI)}
+}
+
+@misc{barroso2026discursivepathswebapp,
+  author       = {Barroso, A. M.},
+  title        = {Discursive Paths WebApp},
+  year         = {2026},
+  howpublished = {Computer program. Registration no. BR5120260042356},
+  note         = {Registered on June 16, 2026. National Institute of Industrial Property (INPI)}
+}
+
+@misc{barroso2026caminosdiscursivoswebapp,
+  author       = {Barroso, A. M.},
+  title        = {Caminos Discursivos WebApp},
+  year         = {2026},
+  howpublished = {Programa de computadora. Registro n.º BR5120260042356},
+  note         = {Registrado el 16 de junio de 2026. Instituto Nacional de la Propiedad Industrial (INPI)}
+}
+```
+
