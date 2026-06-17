@@ -2,13 +2,6 @@
 
 Audit-oriented source release for the analytical core of **Caminhos Discursivos**, a multilingual corpus-geometry method for estimating discursive paths between pairs of terms in Portuguese, English, and Spanish corpora.
 
-Core reference file for citation and patent records:
-
-```text
-analysis/caminhos_pipeline.py
-SHA-256: 3abc1071d231d340b0dca204c6bce48ec989ed1c44449e666fc30d1c44435ab7
-```
-
 ## English
 
 ### What This Repository Contains
