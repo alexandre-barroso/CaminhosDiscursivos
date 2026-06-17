@@ -41,13 +41,7 @@ Large vector stores are represented by placeholders because each production SQLi
 4. Vectors are loaded from a language-specific SQLite fastText store.
 5. When the corpus is sufficiently informative, a corpus-local Word2Vec space is initialized from pretrained vectors and refined on the corpus.
 6. PCA builds a reduced geometric space.
-7. Candidate intermediate@misc{barroso2026discursivepathswebapp,
-  author       = {Barroso, A. M.},
-  title        = {Discursive Paths WebApp},
-  year         = {2026},
-  howpublished = {Computer program. Registration no. BR5120260042356},
-  note         = {Registered on June 16, 2026. National Institute of Industrial Property (INPI)}
-} words are selected by persistence near the segment between the two query terms across several PCA dimensions.
+7. Candidate intermediate words are selected by persistence near the segment between the two query terms across several PCA dimensions.
 8. Reports and figures are localized according to the selected UI language.
 
 ### Minimal Local Audit Run
